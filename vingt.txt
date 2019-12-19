@@ -5,6 +5,3 @@ Cette première ligne pour le premier commit
 
 
 Cette deuxième ligne pour le deuxième commit
-
-
-Cette troisième pour le revert
